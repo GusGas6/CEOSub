@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ceosub\\ceosub\\ceosub\\intermediate\\build\\win64\\unrealeditor\\inc\\ceosub\\uht\\ceosubprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ceosub\\ceosub\\ceosub\\intermediate\\build\\win64\\x64\\ceosubeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ceosub\\ceosub\\ceosub\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ceosub\\definitions.ceosub.h",
+            "c:\\ceosub\\ceosub\\ceosub\\source\\ceosub\\ceosubprojectile.h",
+            "c:\\ceosub\\ceosub\\ceosub\\intermediate\\build\\win64\\unrealeditor\\inc\\ceosub\\uht\\ceosubprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CEOSub",
+			"Path": "..\\Source\\CEOSub.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CEOSubEditor",
+			"Path": "..\\Source\\CEOSubEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

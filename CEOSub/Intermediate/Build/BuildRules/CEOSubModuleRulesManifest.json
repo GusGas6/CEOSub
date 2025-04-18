@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\CEOSub\\CEOSub\\CEOSub\\Source\\CEOSub\\CEOSub.Build.cs",
+		"C:\\CEOSub\\CEOSub\\CEOSub\\Source\\CEOSub.Target.cs",
+		"C:\\CEOSub\\CEOSub\\CEOSub\\Source\\CEOSubEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
